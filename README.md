@@ -1,2 +1,2 @@
 # BlitzDiscord
-a Userliob for Blitz3D to enable Discord Rich Presence
+A Userlib for Blitz3D to enable Discord Rich Presence
